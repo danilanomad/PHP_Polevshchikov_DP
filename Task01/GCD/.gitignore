@@ -1,0 +1,18 @@
+# Composer directory
+/vendor/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PHPUnit and testing output
+/test-output/
+/coverage/
